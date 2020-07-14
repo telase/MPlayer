@@ -1,1 +1,2 @@
-# MPlayer
+# EasyPlayer
+x86
