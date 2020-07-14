@@ -1,0 +1,27 @@
+<window timescalezoomindex="0" showlyrecordtip="1">
+    <tooltipbackground fontid="1">skin\tpbk.png</tooltipbackground>
+    <font id="1" size="13" bold="0" italic="0" vertical="0" underline="0" colornormal="13158600" colorhover="16777215" colordown="6579300" colordisable="7895160">
+        <name>Arial</name>
+    </font>
+    <font id="2" size="13" bold="0" italic="0" vertical="0" underline="0" colornormal="6710886" colorhover="16777215" colordown="6579300" colordisable="11842740">
+        <name>Arial</name>
+    </font>
+    <font id="3" size="16" bold="0" italic="0" vertical="0" underline="0" colornormal="0" colorhover="0" colordown="0" colordisable="11842740">
+        <name>Arial</name>
+    </font>
+    <font id="4" size="12" bold="0" italic="0" vertical="0" underline="0" colornormal="13158600" colorhover="16777215" colordown="6579300" colordisable="7895160">
+        <name>Arial</name>
+    </font>
+    <font id="5" size="13" bold="1" italic="0" vertical="0" underline="0" colornormal="6579300" colorhover="6579300" colordown="6579300" colordisable="6579300">
+        <name>Arial</name>
+    </font>
+    <font id="6" size="14" bold="0" italic="0" vertical="0" underline="0" colornormal="6710886" colorhover="0" colordown="0" colordisable="11842740">
+        <name>Arial</name>
+    </font>
+    <font id="7" size="20" bold="0" italic="0" vertical="0" underline="0" colornormal="0" colorhover="0" colordown="0" colordisable="11842740">
+        <name>Arial</name>
+    </font>
+    <font id="8" size="13" bold="0" italic="0" vertical="0" underline="0" colornormal="626668" colorhover="626668" colordown="626668" colordisable="11842740">
+        <name>Arial</name>
+    </font>
+</window>
