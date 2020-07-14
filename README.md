@@ -1,2 +1,2 @@
 # EasyPlayer
-x86
+Windows x86
